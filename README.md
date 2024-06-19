@@ -19,7 +19,8 @@ Down Arrow / S: Move down
 Left Arrow / A: Move left
 Right Arrow / D: Move right
 
-## Objective: Guide the snake to eat apples. 
+## Objective: 
+Guide the snake to eat apples. 
 Each time the snake eats an apple, it grows in length.
 
 ## Avoid Collisions: 
