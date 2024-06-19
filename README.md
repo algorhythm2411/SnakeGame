@@ -8,7 +8,8 @@ CSS: Used for styling the game elements and making the game visually appealing.
 JavaScript: The core logic of the game, including snake movement, collision detection, scoring, and game over functionality.
 
 # How to Play
-## Start the Game: Open the game in your web browser. The game will start with a snake and an apple on the grid.
+## Start the Game: 
+Open the game in your web browser. The game will start with a snake and an apple on the grid.
 
 ## Control the Snake:
 
@@ -18,13 +19,17 @@ Down Arrow / S: Move down
 Left Arrow / A: Move left
 Right Arrow / D: Move right
 
-## Objective: Guide the snake to eat apples. Each time the snake eats an apple, it grows in length.
+## Objective: Guide the snake to eat apples. 
+Each time the snake eats an apple, it grows in length.
 
-## Avoid Collisions: The game ends if the snake collides with itself. Navigate carefully to keep growing without running into your own tail.
+## Avoid Collisions: 
+The game ends if the snake collides with itself. Navigate carefully to keep growing without running into your own tail.
 
-## Scoring: Your score increases with each apple the snake eats. The longer the snake, the higher your score.
+## Scoring:
+Your score increases with each apple the snake eats. The longer the snake, the higher your score.
 
-## Game Over: If the snake collides with itself, the game is over. A "Game Over" message will be displayed along with your final score.
+## Game Over:
+If the snake collides with itself, the game is over. A "Game Over" message will be displayed along with your final score.
 
 
 # Colors
